@@ -70,7 +70,8 @@
             android:layout_weight="1"
             android:ems="10"
             android:hint="@string/cantidad"
-            android:inputType="number" />
+            android:inputType="number"
+            android:text="@string/cantidad_zapatos" />
     </LinearLayout>
 
     <LinearLayout

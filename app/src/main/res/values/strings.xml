@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">AppVentaZapatos</string>
     <string name="venta_de_calzado">Venta de Calzado</string>
-    <string name="calzado_masculino">Calzado_Masculino</string>
     <string name="venta_calzado">Venta  Calzado</string>
     <string name="calzado_hombre">Calzado Masculino</string>
     <string name="calzado_mujer">Calzado Femenino</string>
@@ -9,4 +8,11 @@
     <string name="calcular">Calcular</string>
     <string name="limpiar">Limpiar</string>
     <string name="txt_resultado">Resultado</string>
+    <string name="cantidad_zapatos">Indique cantidad</string>
+    <string name="zapatillas">zapatillas</string>
+    <string name="clasicos">clasicos</string>
+    <string-array name="tipoZapato">
+        <item>@string/zapatillas</item>
+        <item>@string/clasicos</item>
+    </string-array>
 </resources>

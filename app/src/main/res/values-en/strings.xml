@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppShoesStore</string>
+    <string name="calcular">Calculate</string>
+    <string name="calzado_hombre">Male Shoes</string>
+    <string name="cantidad">Type #</string>
+    <string name="limpiar">Clear</string>
+    <string name="txt_resultado">Result</string>
+    <string name="cantidad_zapatos">Type #</string>
+    <string name="venta_calzado">Shoes Store</string>
+    <string name="venta_de_calzado">Shoes Stores</string>
+    <string name="calzado_mujer">Female Shoes</string>
+    <string name="clasicos">classics</string>
+    <string name="zapatillas">sneakers</string>
+</resources>
