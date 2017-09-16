@@ -14,7 +14,7 @@
     <string name="Nike">Nike</string>
     <string name="Adidas">Adidas</string>
     <string name="Puma">Puma</string>
-
+    <string name="error">Debe Digitar una cantidad </string>
     <string name="seleccion_genero">Genero</string>
     <string-array name="tipoZapato">
         <item>@string/zapatillas</item>
