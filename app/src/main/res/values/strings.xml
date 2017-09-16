@@ -11,8 +11,23 @@
     <string name="cantidad_zapatos">Indique cantidad</string>
     <string name="zapatillas">zapatillas</string>
     <string name="clasicos">clasicos</string>
+    <string name="Nike">Nike</string>
+    <string name="Adidas">Adidas</string>
+    <string name="Puma">Puma</string>
+
+    <string name="seleccion_genero">Genero</string>
     <string-array name="tipoZapato">
         <item>@string/zapatillas</item>
         <item>@string/clasicos</item>
+    </string-array>
+    <string-array name="marcaZapatos">
+        <item>@string/Nike</item>
+        <item>@string/Adidas</item>
+        <item>@string/Puma</item>
+    </string-array>
+
+    <string-array name="Genero">
+        <item>@string/calzado_hombre</item>
+        <item>@string/calzado_mujer</item>
     </string-array>
 </resources>
